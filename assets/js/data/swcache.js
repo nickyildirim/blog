@@ -47,7 +47,7 @@ const allowedDomains = [
   'nyildirim.com',
 
   
-    'github.com',
+    'avatars.githubusercontent.com',
   
 
   'fonts.gstatic.com',
